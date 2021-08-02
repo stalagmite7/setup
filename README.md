@@ -19,9 +19,9 @@ Items to Install
 `brew install --cask dozer`
 10. Rectange
 `brew install --cask rectangle`
-11. Zsh settings. (`.zshrc`)
+11. Zsh settings. ([`.zshrc`](https://raw.githubusercontent.com/karthikskumar/setup/master/.zshrc))
 12. Starship Settings (`.config/starship.toml`)
-13. Hyper settings (`.hyper.js`)
+13. Hyper settings ([`.hyper.js`](https://raw.githubusercontent.com/karthikskumar/setup/master/.hyper.js))
 14. Slack
 `brew install --cask slack`
 15. Fonts
