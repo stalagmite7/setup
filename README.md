@@ -5,7 +5,7 @@ Items to Install
 `brew install python@3.8`
 3. Hyper
 `brew install --cask hyper`
-4. oh-my-zsh https://ohmyz.sh/#install
+4. [oh-my-zsh](https://ohmyz.sh/#install)
 `sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 5. Starship
 `brew install starship`
